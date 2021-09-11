@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACUI.Shared", "ACUI.Shared\ACUI.Shared.csproj", "{C62E271D-7EEB-43E3-AFDF-6AA980F38391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62E271D-7EEB-43E3-AFDF-6AA980F38391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62E271D-7EEB-43E3-AFDF-6AA980F38391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62E271D-7EEB-43E3-AFDF-6AA980F38391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62E271D-7EEB-43E3-AFDF-6AA980F38391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A594C414-01DE-4472-97CB-71A5C68F82F2}
+	EndGlobalSection
+EndGlobal
